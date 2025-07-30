@@ -1,4 +1,6 @@
 # mod-system
+If you have a better name idea PLEASE make an issue for it WE ARE BEGGING YOU (preferably something that has flixel or flx in it)
+
 A HaxeFlixel Modding System made by (who woulda guessed it) [TechnikTil](https://techniktil.tilnotdrip.org/) and [CrusherNotDrip](https://crushernotdrip.tilnotdrip.org/).
 
 ## Setup:
