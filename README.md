@@ -1,2 +1,13 @@
 # mod-system
-gcsxfdzyhbgfredyuertwuy7tr4ew5r4y 7y548u9t54ei68u94e3y78e5
+A HaxeFlixel Modding System made by (who woulda guessed it) [TechnikTil](https://techniktil.tilnotdrip.org/) and [CrusherNotDrip](https://crushernotdrip.tilnotdrip.org/).
+
+## Setup:
+1. Install the Haxelib by running this command:
+	```bash
+    haxelib git mod-system https://github.com/TilNotDrip/mod-system
+    ```
+
+2. Add the following to your `Project.xml` file:
+    ```xml
+    <haxelib name="mod-system">
+    ```
