@@ -1,14 +1,15 @@
 {
-    "name": "mod-system",
-    "description": "A HaxeFlixel Modding System made by (who woulda guessed it) TechnikTil and CrusherNotDrip.",
+    "name": "flxmoddingsystem",
+    "description": "A HaxeFlixel Modding System made by... (who woulda guessed it) TechnikTil and CrusherNotDrip!",
     "license": "MIT",
-    "url" : "https://github.com/TilNotDrip/mod-system/",
+    "url" : "https://github.com/TilNotDrip/flxmoddingsystem/",
     "releasenote": "Initial release.",
     "version": "0.1.0",
     "classPath": "src/",
     "contributors": ["TilNotDrip", "CrusherNotDrip", "TechnikTil"],
     "dependencies": {
         "flixel": "",
+        "thx.core": "",
 		"thx.semver": ""
     }
 }

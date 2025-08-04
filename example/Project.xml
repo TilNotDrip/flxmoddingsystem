@@ -25,7 +25,9 @@
 	<!-- _______________________________ Libraries ______________________________ -->
 
 	<haxelib name="flixel" />
-	<haxelib name="modding-system" />
+	<haxelib name="flxmoddingsystem" />
+	<haxelib name="thx.core" />
+	<haxelib name="thx.semver" />
 
 	<!-- ______________________________ Haxedefines _____________________________ -->
 
